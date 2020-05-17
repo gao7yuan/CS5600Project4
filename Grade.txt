@@ -1,0 +1,7 @@
+30/30 - Design Document
+A3: -2 You don't talk about you deal with multiple files and extending the file size, also a little short on details
+A6: -3 You don't give exact numbers or discuss how you support 8 MB.
+45/50 - Persistence Tests Fail
+20/20 - Code is clean
+
+90/100
